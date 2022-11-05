@@ -27,4 +27,7 @@ public class ProductController {
 		return ps.getoverall();
 	}
 
+	public void print() {
+	System.out.println("Recommit");
+	}
 }
